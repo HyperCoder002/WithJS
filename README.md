@@ -71,12 +71,6 @@
   
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**Thanks for visiting my profile! ⭐️ Star some repositories if you find them interesting!**
+**Thanks for visiting my profile!**
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
