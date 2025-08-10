@@ -4,7 +4,7 @@
 
 ### Front-end Developer | MERN Stack Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Expert;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Front+End+Developer;MERN+Stack+Dev;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 
 </div>
 
